@@ -47,3 +47,6 @@ end
 # Use therubyracer
 gem 'therubyracer'
 
+# Haml
+gem 'haml'
+
